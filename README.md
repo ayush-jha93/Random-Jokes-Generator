@@ -2,6 +2,8 @@
 
 A simple and fun web application built by **Ayush Jha** that displays random dad jokes to brighten your day.
 
+Live site: https://ayush-jha93.github.io/Random-Jokes-Generator/
+
 ![Project Screenshot](./screenshot.png)
 
 *(Note: You can replace `screenshot.png` with an actual screenshot of your project.)*
