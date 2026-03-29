@@ -49,13 +49,14 @@ The application's logic resides in `script.js`.
 
 ## How to Use
 
-To run this project locally, simply follow these steps:
+To run this project locally, follow these steps:
 
 1.  Clone the repository or download the files.
-2.  Open the `index.html` file in your web browser.
+2.  Open the project in VS Code.
+3.  Run it with the Live Server extension (recommended), or open `index.html` in your browser.
 
-That's it! You can now enjoy an endless stream of dad jokes.
+If your internet connection is unavailable, the app now shows a built-in fallback joke instead of breaking.
 
 ---
 
-Made with ❤️ by Ayush Jha.
+Made with :heart: by Ayush Jha.
