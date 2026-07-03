@@ -53,7 +53,7 @@ The application's logic resides in `script.js`.
 
 To run this project locally, follow these steps:
 
-1.  Clone the repository or download the files.
+1.  Clone the repository or download files.
 2.  Open the project in VS Code.
 3.  Run it with the Live Server extension (recommended), or open `index.html` in your browser.
 
