@@ -22,7 +22,7 @@ The user interface is clean, simple, and responsive, ensuring a good experience 
 
 -   Displays a random joke on page load.
 -   Fetches and displays a new joke when the "Get Another Joke" button is clicked.
--   Clean, centered, and responsive user interface.
+-   Clean, centered, and responsive UI.
 -   A fun footer credit to the creator.
 
 ---
